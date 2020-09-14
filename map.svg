@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="waze.svg">
+   sodipodi:docname="map.svg">
   <style
      id="style1059" />
   <defs
@@ -32,11 +32,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67301123"
-     inkscape:cx="1037.1998"
-     inkscape:cy="471.20509"
+     inkscape:zoom="1.3460225"
+     inkscape:cx="825.07796"
+     inkscape:cy="374.20421"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1856"
@@ -48,7 +48,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -57,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -341,8 +342,7 @@
      id="layer7"
      inkscape:label="sites"
      style="display:inline"
-     transform="translate(695.41296,-82.469032)"
-     sodipodi:insensitive="true">
+     transform="translate(695.41296,-82.469032)">
     <circle
        style="fill:#ff0000;stroke:none"
        id="site_har_hazevel"
@@ -395,19 +395,19 @@
        style="fill:#ff0000;stroke:none"
        id="site_kanaf_levana"
        class="siteyarkon"
-       cx="848.66608"
-       cy="376.21347"
+       cx="852.38074"
+       cy="413.35995"
        r="7.5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
-       x="839.60895"
-       y="363.75803"
+       x="809.89178"
+       y="433.59341"
        id="text6436-8-5"><tspan
          sodipodi:role="line"
          id="tspan1032"
-         x="839.60895"
-         y="363.75803">כנף לבנה</tspan></text>
+         x="809.89178"
+         y="433.59341">כנף לבנה</tspan></text>
     <circle
        style="fill:#ff0000;stroke:none"
        id="site_tachanat_abu_rabah"
@@ -449,19 +449,19 @@
        style="fill:#ff0000;stroke:none"
        id="site_secher_taas"
        class="siteyarkon"
-       cx="253.86832"
-       cy="362.55121"
+       cx="282.09964"
+       cy="384.09616"
        r="7.5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
-       x="178.53383"
-       y="366.5343"
+       x="266.19952"
+       y="406.6525"
        id="text6436-1"><tspan
          sodipodi:role="line"
          id="tspan1048"
-         x="178.53383"
-         y="366.5343">סכר תע&quot;ש</tspan></text>
+         x="266.19952"
+         y="406.6525">סכר תע&quot;ש</tspan></text>
     <circle
        style="fill:#ff0000;stroke:none"
        id="site_gesher_turki"
@@ -945,5 +945,111 @@
          id="tspan1229"
          x="387.72696"
          y="190.65848">גבעת הכלניות</tspan></text>
+    <g
+       style="display:inline"
+       id="g6928-8-7"
+       transform="rotate(-3.9938185,4357.4769,10556.23)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-40-3"
+         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-9-7-4"
+         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="display:inline;fill:#ffb380;stroke:#800080;stroke-width:0.721449;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6887-6-5-5"
+       width="3.9198558"
+       height="16.96015"
+       x="675.87274"
+       y="-78.729485"
+       transform="matrix(-0.10464616,0.99450952,0.96546189,0.26054432,0,0)"
+       inkscape:transform-center-x="-2.2833528"
+       inkscape:transform-center-y="6.8771276" />
+    <circle
+       style="display:inline;fill:#ff0000;stroke:none"
+       id="site_beit_hamashevot"
+       class="siteyarkon"
+       cx="-158.92297"
+       cy="654.52484"
+       r="7.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="-258.03119"
+       y="659.99377"
+       id="text6436-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan1048-9"
+         x="-258.03119"
+         y="659.99377">בית המשאבות</tspan></text>
+    <g
+       style="display:inline"
+       id="g6928-8-7-0"
+       transform="rotate(-3.9938185,7024.6103,15438.614)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-40-3-5"
+         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-9-7-4-5"
+         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g6928-8-7-06"
+       transform="matrix(1.1683231,-0.07230753,0.08157045,1.0356515,-1067.5886,515.28177)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-40-3-3"
+         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-9-7-4-7"
+         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <circle
+       style="display:inline;fill:#ff0000;stroke:none"
+       id="site_gesher_haklai"
+       class="siteyarkon"
+       cx="-180.23357"
+       cy="685.72791"
+       r="7.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="-258.53973"
+       y="690.45392"
+       id="text6436-1-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan1048-9-1"
+         x="-258.53973"
+         y="690.45392">גשר חקלאי</tspan></text>
+    <circle
+       style="display:inline;fill:#ff0000;stroke:none"
+       id="site_secher_haklai"
+       class="siteyarkon"
+       cx="-116.95657"
+       cy="658.83246"
+       r="7.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="-106.11115"
+       y="664.30139"
+       id="text6436-1-5-5-7"><tspan
+         sodipodi:role="line"
+         id="tspan1048-9-1-6"
+         x="-106.11115"
+         y="664.30139">סכר חקלאי</tspan></text>
   </g>
 </svg>
