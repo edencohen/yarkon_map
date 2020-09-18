@@ -18,6 +18,34 @@
      id="style1059" />
   <defs
      id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1073" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#0000ff;stroke-width:1pt;stroke-opacity:1;fill:#0000ff;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1067" />
+    </marker>
     <rect
        x="245.47726"
        y="246.49832"
@@ -32,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3460225"
-     inkscape:cx="825.07796"
-     inkscape:cy="374.20421"
+     inkscape:zoom="0.95178164"
+     inkscape:cx="893.37212"
+     inkscape:cy="482.53989"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -184,6 +212,30 @@
          id="tspan1188"
          x="412.92319"
          y="302.74023">נחל הדר</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none"
+       x="-696.06989"
+       y="951.25085"
+       id="text6436-1-2-5-0-6-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan1110-1-5"
+         x="-696.06989"
+         y="951.25085"> שפך נחל ירקון</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="m -688.97774,916.80429 71.70196,-0.93104"
+       id="path1383" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none"
+       x="-622.45227"
+       y="933.59821"
+       id="text6436-1-2-5-0-6-6-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan1110-1-5-1"
+         x="-622.45227"
+         y="933.59821">לכיוון</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -367,13 +419,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
-       x="547.06476"
-       y="389.98947"
+       x="545.57892"
+       y="385.53189"
        id="text6436"><tspan
          sodipodi:role="line"
          id="tspan1050"
-         x="547.06476"
-         y="389.98947">מפל נסתר</tspan></text>
+         x="545.57892"
+         y="385.53189">מפל נסתר</tspan></text>
     <circle
        style="fill:#ff0000;stroke:none"
        id="site_beit_leah"
@@ -395,36 +447,26 @@
        style="fill:#ff0000;stroke:none"
        id="site_kanaf_levana"
        class="siteyarkon"
-       cx="852.38074"
-       cy="413.35995"
+       cx="862.7818"
+       cy="382.15692"
        r="7.5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
-       x="809.89178"
-       y="433.59341"
+       x="855.95337"
+       y="357.07166"
        id="text6436-8-5"><tspan
          sodipodi:role="line"
          id="tspan1032"
-         x="809.89178"
-         y="433.59341">כנף לבנה</tspan></text>
+         x="855.95337"
+         y="357.07166">כנף</tspan></text>
     <circle
        style="fill:#ff0000;stroke:none"
        id="site_tachanat_abu_rabah"
        class="siteyarkon"
-       cx="699.38031"
-       cy="399.78488"
+       cx="698.63739"
+       cy="402.38513"
        r="7.5" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
-       x="652.41638"
-       y="420.57556"
-       id="text6436-8-1"><tspan
-         sodipodi:role="line"
-         id="tspan1052"
-         x="652.41638"
-         y="420.57556">טחנת אבו רבאח</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#ff0000;fill-opacity:1;stroke:none"
@@ -466,19 +508,19 @@
        style="fill:#ff0000;stroke:none"
        id="site_gesher_turki"
        class="siteyarkon"
-       cx="473.83981"
-       cy="500.1066"
+       cx="474.89047"
+       cy="502.73325"
        r="7.5" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
-       x="483.67871"
-       y="503.20944"
+       x="483.15338"
+       y="506.88675"
        id="text6436-1-2"><tspan
          sodipodi:role="line"
          id="tspan1044"
-         x="483.67871"
-         y="503.20944">גשר טורקי</tspan></text>
+         x="483.15338"
+         y="506.88675">גשר טורקי</tspan></text>
     <circle
        style="fill:#ff0000;stroke:none"
        id="site_gesher_fruchia"
@@ -490,12 +532,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
        x="442.51773"
-       y="417.14163"
+       y="414.91284"
        id="text6436-1-4"><tspan
          sodipodi:role="line"
          id="tspan1036"
          x="442.51773"
-         y="417.14163">גשר פרוחיה</tspan></text>
+         y="414.91284">גשר פרוחיה</tspan></text>
     <circle
        style="fill:#ff0000;stroke:none"
        id="site_beit_habeton"
@@ -660,96 +702,6 @@
          d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
          style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-    <g
-       style="display:inline"
-       id="g6928-4"
-       transform="matrix(1.788278,0.29501826,-0.22032961,1.3355464,157.16887,-177.63311)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-4"
-         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-9-6"
-         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       style="display:inline"
-       id="g6928-4-9"
-       transform="matrix(1.611473,-0.82953534,0.61952499,1.2035024,-657.35435,439.19171)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-4-6"
-         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-9-6-3"
-         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       style="display:inline"
-       id="g6928-4-7"
-       transform="matrix(1.788278,0.29501826,-0.22032961,1.3355464,26.351588,-199.38889)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-4-8"
-         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-9-6-8"
-         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       style="display:inline"
-       id="g6928-4-2"
-       transform="matrix(1.7917559,0.27310182,-0.20396167,1.3381438,-182.18911,-222.14313)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-4-9"
-         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-9-6-1"
-         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       style="display:inline"
-       id="g6928-4-3"
-       transform="matrix(1.6982806,0.63310096,-0.47282118,1.2683333,-737.52151,-342.61029)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-4-5"
-         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-9-6-9"
-         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       style="display:inline"
-       id="g6928-8"
-       transform="rotate(2.7618155,902.96726,6989.9556)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-40"
-         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path6889-9-7"
-         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
     <rect
        style="display:inline;fill:#ffb380;stroke:#800080;stroke-width:0.721449;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect6887-6"
@@ -859,13 +811,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
-       x="1035.4558"
+       x="1070.3735"
        y="720.42871"
        id="text6436-8-1-2"><tspan
          sodipodi:role="line"
          id="tspan1060"
-         x="1035.4558"
-         y="720.42871">טחנת אל-מיר</tspan></text>
+         x="1070.3735"
+         y="720.42871">אל-מיר</tspan></text>
     <g
        style="display:inline"
        id="g6928-8-4-5"
@@ -1051,5 +1003,170 @@
          id="tspan1048-9-1-6"
          x="-106.11115"
          y="664.30139">סכר חקלאי</tspan></text>
+    <circle
+       style="display:inline;fill:#ff0000;stroke:none"
+       id="site_beit_pardes"
+       class="siteyarkon"
+       cx="503.00125"
+       cy="450.0672"
+       r="7.5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="431.78589"
+       y="455.01553"
+       id="text6436-1-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan1036-1"
+         x="431.78589"
+         y="455.01553">בית פרדס</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="642.16302"
+       y="421.64749"
+       id="text6436-8-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan1052-7"
+         x="642.16302"
+         y="421.64749">אבו רבאח</tspan></text>
+    <rect
+       style="display:inline;fill:#ffb380;stroke:#800080;stroke-width:0.778649;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6887-9"
+       width="4.3946471"
+       height="17.621683"
+       x="870.12915"
+       y="333.33035"
+       transform="matrix(0.99799808,0.06324416,-0.05832846,0.99829745,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="846.7113"
+       y="371.14389"
+       id="text6436-8-5-9"><tspan
+         sodipodi:role="line"
+         id="tspan1032-6"
+         x="846.7113"
+         y="371.14389">לבנה</tspan></text>
+    <g
+       id="g296">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4"
+         d="m 1035.0559,516.52567 -4.1851,3.11383 c -22.0591,-6.32144 -23.5297,-6.74287 -23.5297,-6.74287 l -2.0024,-5.28612"
+         style="fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-4"
+         d="m 1000.403,527.34422 4.1852,-3.1138 c 22.0591,6.3214 23.5297,6.7429 23.5297,6.7429 l 2.0024,5.2861"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g296-5"
+       style="display:inline"
+       transform="rotate(-7.465484,776.90306,1493.5923)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-56"
+         d="m 1035.0559,516.52567 -4.1851,3.11383 c -22.0591,-6.32144 -23.5297,-6.74287 -23.5297,-6.74287 l -2.0024,-5.28612"
+         style="fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-4-8"
+         d="m 1000.403,527.34422 4.1852,-3.1138 c 22.0591,6.3214 23.5297,6.7429 23.5297,6.7429 l 2.0024,5.2861"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g296-5-7"
+       style="display:inline"
+       transform="rotate(-7.465484,431.43595,3042.066)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-56-0"
+         d="m 1035.0559,516.52567 -4.1851,3.11383 c -22.0591,-6.32144 -23.5297,-6.74287 -23.5297,-6.74287 l -2.0024,-5.28612"
+         style="fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-4-8-5"
+         d="m 1000.403,527.34422 4.1852,-3.1138 c 22.0591,6.3214 23.5297,6.7429 23.5297,6.7429 l 2.0024,5.2861"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g296-5-7-8"
+       style="display:inline"
+       transform="rotate(-40.086477,688.45686,1280.0025)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-56-0-8"
+         d="m 1035.0559,516.52567 -4.1851,3.11383 c -22.0591,-6.32144 -23.5297,-6.74287 -23.5297,-6.74287 l -2.0024,-5.28612"
+         style="fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-4-8-5-9"
+         d="m 1000.403,527.34422 4.1852,-3.1138 c 22.0591,6.3214 23.5297,6.7429 23.5297,6.7429 l 2.0024,5.2861"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g296-5-7-6"
+       style="display:inline"
+       transform="rotate(-0.08072589,-8600.1439,742538.02)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-56-0-0"
+         d="m 1035.0559,516.52567 -4.1851,3.11383 c -22.0591,-6.32144 -23.5297,-6.74287 -23.5297,-6.74287 l -2.0024,-5.28612"
+         style="fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-4-8-5-1"
+         d="m 1000.403,527.34422 4.1852,-3.1138 c 22.0591,6.3214 23.5297,6.7429 23.5297,6.7429 l 2.0024,5.2861"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g296-5-7-6-3"
+       style="display:inline"
+       transform="matrix(0.08864089,1.0369144,-1.0912827,0.08422475,31.978466,-217.37251)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-56-0-0-2"
+         d="m 1035.0559,516.52567 -4.1851,3.11383 c -22.0591,-6.32144 -23.5297,-6.74287 -23.5297,-6.74287 l -2.0024,-5.28612"
+         style="fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-4-8-5-1-6"
+         d="m 1000.403,527.34422 4.1852,-3.1138 c 22.0591,6.3214 23.5297,6.7429 23.5297,6.7429 l 2.0024,5.2861"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g296-5-4"
+       style="display:inline"
+       transform="rotate(78.479191,999.66464,341.5055)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-56-5"
+         d="m 1035.0559,516.52567 -4.1851,3.11383 c -22.0591,-6.32144 -23.5297,-6.74287 -23.5297,-6.74287 l -2.0024,-5.28612"
+         style="fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-4-4-8-3"
+         d="m 1000.403,527.34422 4.1852,-3.1138 c 22.0591,6.3214 23.5297,6.7429 23.5297,6.7429 l 2.0024,5.2861"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:3.13262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       id="g6928-3-5-8"
+       transform="rotate(62.216897,411.87954,393.01642)"
+       inkscape:transform-center-x="5.7786364"
+       inkscape:transform-center-y="9.4559504">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-6-4-3"
+         d="m 528.35478,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
+         style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6889-9-1-3-4"
+         d="m 534.00564,397.42828 c 0,16.95256 0,18.08273 0,18.08273"
+         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
