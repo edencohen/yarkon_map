@@ -47,7 +47,7 @@ function toggleSvgBackground() {
     var svg = document.getElementsByTagName("svg")[0];
   
     if (checkBox.checked == true){
-        svg.style.backgroundImage = "url('images/map.png')";
+        svg.style.backgroundImage = "url('images/map.jpg')";
     } else {
         svg.style.backgroundImage = "";
     }
