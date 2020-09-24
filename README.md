@@ -1,5 +1,5 @@
 # Yarkon River map
-A dynamic map of Yarkon River in Israel (west part), with trails, points-of-interest and pictures.
+A dynamic map of Yarkon River in Israel (east part), with trails, points-of-interest and pictures.
 
 The map can be viewed [here](http://edencohen.github.io/yarkon_map).
 
